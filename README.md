@@ -1,3 +1,5 @@
 # microservices-blog
 
-Microservices concept
+Microservices concept with kubernetes and skaffold.
+
+Mainly demonstrates sync-async communication through events
